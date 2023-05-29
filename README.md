@@ -3,6 +3,18 @@ Introducing an easy-to-use to-do list tool that helps you keep track of your tas
 
 ## View app at
 
-Deployed link to the application : https://hariom90.github.io/ToDoList/<br>
+#### [ToDoList](https://hariom90.github.io/ToDoList/)
 
 
+
+<hr />
+
+### Installation Options
+
+```
+git clone https://github.com/Hariom90/ToDoList.git
+```
+or
+
+Simply download the Zip File and run on your system
+<hr />
