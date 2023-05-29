@@ -3,6 +3,6 @@ Introducing an easy-to-use to-do list tool that helps you keep track of your tas
 
 ## View app at
 
-Deployed link to the application : <br>
+Deployed link to the application : https://hariom90.github.io/ToDoList/<br>
 
 
